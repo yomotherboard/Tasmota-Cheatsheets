@@ -1,0 +1,6 @@
+| DpId | Function | Data Type | Values |
+| --- | --- | --- |
+| 1 | Power | bool | 0:on 1:off
+| 2 | Dimmer State | int | 0-1000 |
+| 3 | Dimmer Lower Limit | int | 0-1000 |
+| 4 | Dimmer Mode | enum | |
